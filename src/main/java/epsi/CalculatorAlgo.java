@@ -16,6 +16,8 @@ public final class CalculatorAlgo {
         return a + b;
     }
 
+    
+
     private CalculatorAlgo() {
         throw new IllegalArgumentException("Utility class - do not instantiate");
     }
